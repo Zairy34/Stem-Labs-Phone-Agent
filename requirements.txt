@@ -56,7 +56,7 @@ PyAudio
 pycparser==2.21
 pydantic
 pydantic_core==2.16.3
-pygame==2.5.2
+pygame
 Pygments==2.17.2
 python-dateutil==2.8.2
 python-dotenv==1.0.1
